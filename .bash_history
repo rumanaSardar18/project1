@@ -203,3 +203,109 @@ clear
 exit
 git remote -v
 exit
+clear
+git remote -v
+git remote add origin git@github.com:rumanaSardar18/project1.git
+git remote -v
+git branch -M master
+git branch
+git branch -m main
+git branch
+git push -u origin
+git branch -M master
+git master
+git branch
+git push origin
+ls -l
+git push --set-upstream origin master
+clear
+git remote -v
+git push origin --all
+git config --global user.email "rumanasardar14@gmail.com"
+git config --global user.name "rumanasardar18"
+git remote -v
+git push -u origin
+git push --set-upstream origin master
+clear
+git init
+git branch
+ls -l
+git heckout develo
+git checkout develo
+git checkout develop
+git checkout devlop
+ls -l
+git push -u orgin
+git push -u origin
+git push --set-upstream origin devlop
+clear
+git remote -v
+git remote remove origin
+git remote -v
+git push --set-upstream origin devlop
+clear
+git remote add origin git@github.com:rumanaSardar18/project1.git
+git remote -v
+git push -u origin
+git push -u origin master
+git branch 
+git checkout master
+git branh -D master devlop
+git branc -D master devlop
+git branch -D master devlop
+ls -l
+rm *
+ls -l
+git master
+git branch
+ls -l
+clear
+git init
+touch 1.txt
+git add .
+git commit -m "1.txt is added"
+ls -l
+touch 2.java 3.java
+git add .
+git commit -m "2.java and 3.java added"
+git log --oneline
+git remote -v
+git push -u origin master
+history
+git config --global user.name "rumanaSardar18" 
+git remote remove git@github.com:rumanaSardar18/project1.git
+git remote -v
+git remote remove origin
+git add -v
+git init
+git add .
+git commit -m "all update"
+ls -l
+git branch
+git remote add  git@github.com:rumanaSardar18/project1.git
+git remote add  origin git@github.com:rumanaSardar18/project1.git
+git remote -v
+git branch -M main
+git brnach
+git branch
+git push origin -u main
+echo $HOME
+la -l
+cd .ssh
+la -l
+ssh key-gen
+wd
+pwd
+ls -l
+cd .
+cd /home/ubuntu
+ls -a
+cd .ssh
+ls -l
+ssh key-gen
+ssh-keygen
+ls -l
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC3s4RSE3A1iMWKL6cS3F9U7RI1MR5dTxgt/Bxcq2bPx9yPdsBwK2ED0Qn1PQAmCz++PUc5IM9K2NHAvL5ZHHi2T9SUDZabuJFm2ajItvRGi2t+w2gZPWFrJXklC+qfbCyXBaoIr8jozcaNIuGGfCX80JqHQ3fuvvnbBJ6GFPCqKpwqZWLhxwKMNRf0BeMWhDVdYBpqzcARCIQGUkxWUR4curVB52UlmNfcU9h0fkWnMGyWlzpf4FRXzMn+n8jKaF65JJYC1kr/r9wgD3wpBgGlPzaIGVhFTdH3Zae7/JQo3bqvpGOuyUf2NTttxGAE9p9OKOJSlCfjVAaoTJtcvQexpISFL+XjQ7pKfeY7Vvfct0T5Eq+5L+LdyqDB428whmzVUHO7p9RQeN7UsGQY2DmIeyZbjPb9MOWW8h+Q8YX4RFXK4xQ9nlIVdcJryQm0DwPvhQUFHFR0UGEgZ29TGBXISBHdYKfJtHue2NvTHkEn7sS24noWRE8se8OI2X/Q1HE= ubuntu@master
+clear
+exit
